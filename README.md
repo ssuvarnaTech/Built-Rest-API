@@ -1,4 +1,4 @@
-# CruzHacks-Challenge-Suvarna-Sreevani
+#REST API
 This project creates a REST API through Python through CRUD
 
 There are three functions : updateHacker, getHackerInfo, and createNewHacker
